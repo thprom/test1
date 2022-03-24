@@ -5,5 +5,4 @@
 
 ###### This should be big
 
-!{Bored Guy}(/home/user/Downloads/black-guy-smiles-at-camera-poker-face-meme.jpg
-)
+!{Bored Guy}(/Pics/black-guy-smiles-at-camera-poker-face-meme.jpg)
